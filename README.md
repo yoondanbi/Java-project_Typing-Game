@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=Typing%20Game%20⌨&textColor=ffffff&fontSize=37&animation=twinkling&section=header)
+
 ## 🚩 프로젝트 개요
 - **주제**
   - 슈와 초콜릿 공장(Java를 이용한 타자 연습 게임)
