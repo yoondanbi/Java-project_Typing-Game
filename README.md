@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=Typing%20Game%20⌨&textColor=ffffff&fontSize=37&animation=twinkling&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=Typing%20Game%20⌨&textColor=#ffffff&fontSize=50&animation=twinkling&section=header)
 
 ## 🚩 프로젝트 개요
 - **주제**
